@@ -1,8 +1,8 @@
-<h1 align="center">Olá, me chamo Gustavo Lanzeloti <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=itspatrao&color=blue&label=Visualizações"/></h1>
+<h1 align="center">Olá <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=itspatrao&color=blue&label=Visualizações"/></h1>
 
 <p align="center">...</p>
 
-## 🧑 Hobbies
+## 🧑 Works
 - 👑 Fundador do <a href="https://discord.gg/zC5he9gQww">Hytrix Network</a>;
 
 ## 📞 Contatos
