@@ -17,6 +17,5 @@
    <a href="https://github.com/itspatrao">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=itspatrao&theme=gotham&custom_title=%E2%9E%A5+Contribui%C3%A7%C3%B5es&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspatrao&layout=compact&theme=gotham&hide_title=true&langs_count=10"/>
    </div>
 </div>
